@@ -1,0 +1,16 @@
+main {
+    margin-top: 60px;
+}
+
+.margin {
+    padding: 15px 20px;
+}
+
+.line {
+    border-bottom: 2px solid rgb(190, 197, 197);
+    border-top: 2px solid rgb(190, 197, 197);
+}
+
+.left-marg {  
+    margin-left: 20px;
+}
